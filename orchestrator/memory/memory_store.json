@@ -71,5 +71,1346 @@
       "delay": 2.0999999999999996,
       "efficiency": 90.4
     }
+  },
+  {
+    "timestamp": "2026-03-30 01:50:33.215376",
+    "location": "Zone-12",
+    "risk_score": 30.475,
+    "nodes_used": [
+      "Node-3",
+      "Node-4"
+    ],
+    "demand": 72.94976000000001,
+    "capacity": 86,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:57:59.791212",
+    "location": "Zone-12",
+    "risk_score": 43.025,
+    "nodes_used": [
+      "Node-4"
+    ],
+    "demand": 53.91360000000001,
+    "capacity": 61,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:58:01.242613",
+    "location": "Zone-12",
+    "risk_score": 34.4125,
+    "nodes_used": [
+      "Node-3",
+      "Node-2"
+    ],
+    "demand": 96.51200000000001,
+    "capacity": 101,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:58:02.703421",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-1"
+    ],
+    "demand": 75.712,
+    "capacity": 80,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:58:04.118799",
+    "location": "Zone-12",
+    "risk_score": 32.574999999999996,
+    "nodes_used": [
+      "Node-2",
+      "Node-4"
+    ],
+    "demand": 79.3,
+    "capacity": 94,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:58:05.708558",
+    "location": "Zone-12",
+    "risk_score": 34.9375,
+    "nodes_used": [
+      "Node-1",
+      "Node-4"
+    ],
+    "demand": 97.76,
+    "capacity": 103,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:58:07.374410",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-1"
+    ],
+    "demand": 62.61964800000002,
+    "capacity": 70,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:58:08.746471",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-3"
+    ],
+    "demand": 60.73600000000001,
+    "capacity": 72,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:58:10.120832",
+    "location": "Zone-12",
+    "risk_score": 37.56249999999999,
+    "nodes_used": [
+      "Node-4",
+      "Node-3"
+    ],
+    "demand": 97.5,
+    "capacity": 113,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:59:35.325570",
+    "location": "Zone-12",
+    "risk_score": 34.9375,
+    "nodes_used": [
+      "Node-1",
+      "Node-0"
+    ],
+    "demand": 85.8,
+    "capacity": 103,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:59:36.988495",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-0"
+    ],
+    "demand": 63.897600000000025,
+    "capacity": 71,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:59:38.949245",
+    "location": "Zone-12",
+    "risk_score": 43.55,
+    "nodes_used": [
+      "Node-3"
+    ],
+    "demand": 61.23520000000002,
+    "capacity": 62,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:59:39.961796",
+    "location": "Zone-12",
+    "risk_score": 25.925,
+    "nodes_used": [
+      "Node-2",
+      "Node-0",
+      "Node-4"
+    ],
+    "demand": 84.53120000000003,
+    "capacity": 99,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 10.0,
+      "delay": 2.8,
+      "efficiency": 87.2
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:59:41.392472",
+    "location": "Zone-12",
+    "risk_score": 36.24999999999999,
+    "nodes_used": [
+      "Node-3",
+      "Node-2"
+    ],
+    "demand": 91.52000000000001,
+    "capacity": 108,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:59:42.796484",
+    "location": "Zone-12",
+    "risk_score": 37.3,
+    "nodes_used": [
+      "Node-3",
+      "Node-1"
+    ],
+    "demand": 101.4,
+    "capacity": 112,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:59:44.382979",
+    "location": "Zone-12",
+    "risk_score": 33.1,
+    "nodes_used": [
+      "Node-4",
+      "Node-0"
+    ],
+    "demand": 88.19200000000002,
+    "capacity": 96,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:59:45.795016",
+    "location": "Zone-12",
+    "risk_score": 33.3625,
+    "nodes_used": [
+      "Node-3",
+      "Node-0"
+    ],
+    "demand": 79.3,
+    "capacity": 97,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:59:47.476635",
+    "location": "Zone-12",
+    "risk_score": 27.5875,
+    "nodes_used": [
+      "Node-2",
+      "Node-4"
+    ],
+    "demand": 62.56640000000001,
+    "capacity": 75,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:59:48.887213",
+    "location": "Zone-12",
+    "risk_score": 36.512499999999996,
+    "nodes_used": [
+      "Node-3",
+      "Node-0"
+    ],
+    "demand": 94.01600000000002,
+    "capacity": 109,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:59:50.436949",
+    "location": "Zone-12",
+    "risk_score": 32.574999999999996,
+    "nodes_used": [
+      "Node-0",
+      "Node-3"
+    ],
+    "demand": 75.712,
+    "capacity": 94,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:59:51.980936",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-4"
+    ],
+    "demand": 61.90080000000002,
+    "capacity": 71,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:59:53.457888",
+    "location": "Zone-12",
+    "risk_score": 32.8375,
+    "nodes_used": [
+      "Node-4",
+      "Node-1"
+    ],
+    "demand": 78.80704000000001,
+    "capacity": 95,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 01:59:55.199152",
+    "location": "Zone-12",
+    "risk_score": 27.675,
+    "nodes_used": [
+      "Node-1",
+      "Node-4",
+      "Node-2"
+    ],
+    "demand": 99.84000000000002,
+    "capacity": 109,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 10.0,
+      "delay": 2.8,
+      "efficiency": 87.2
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:01:45.526946",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-1"
+    ],
+    "demand": 62.400000000000006,
+    "capacity": 68,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:01:47.208933",
+    "location": "Zone-12",
+    "risk_score": 37.0375,
+    "nodes_used": [
+      "Node-3",
+      "Node-0"
+    ],
+    "demand": 88.4,
+    "capacity": 111,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:01:49.360920",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-0"
+    ],
+    "demand": 69.75488000000003,
+    "capacity": 71,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:01:51.331119",
+    "location": "Zone-12",
+    "risk_score": 27.325,
+    "nodes_used": [
+      "Node-0",
+      "Node-2",
+      "Node-1"
+    ],
+    "demand": 98.50880000000002,
+    "capacity": 107,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 10.0,
+      "delay": 2.8,
+      "efficiency": 87.2
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:01:53.298123",
+    "location": "Zone-12",
+    "risk_score": 39.137499999999996,
+    "nodes_used": [
+      "Node-0",
+      "Node-2"
+    ],
+    "demand": 118.14400000000002,
+    "capacity": 119,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:01:55.328482",
+    "location": "Zone-12",
+    "risk_score": 35.725,
+    "nodes_used": [
+      "Node-1",
+      "Node-2"
+    ],
+    "demand": 94.51520000000001,
+    "capacity": 106,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:01:57.325983",
+    "location": "Zone-12",
+    "risk_score": 24.7,
+    "nodes_used": [
+      "Node-2",
+      "Node-4",
+      "Node-0"
+    ],
+    "demand": 83.86560000000003,
+    "capacity": 92,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 10.0,
+      "delay": 2.8,
+      "efficiency": 87.2
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:01:59.411676",
+    "location": "Zone-12",
+    "risk_score": 22.6,
+    "nodes_used": [
+      "Node-4",
+      "Node-3"
+    ],
+    "demand": 52.39603200000002,
+    "capacity": 56,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:10:53.554997",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-3"
+    ],
+    "demand": 66.3,
+    "capacity": 78,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:10:55.000345",
+    "location": "Zone-12",
+    "risk_score": 28.375,
+    "nodes_used": [
+      "Node-2",
+      "Node-0"
+    ],
+    "demand": 71.76,
+    "capacity": 78,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:10:56.500084",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-4"
+    ],
+    "demand": 68.64000000000001,
+    "capacity": 70,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:10:57.996367",
+    "location": "Zone-12",
+    "risk_score": 35.9875,
+    "nodes_used": [
+      "Node-4",
+      "Node-0"
+    ],
+    "demand": 100.88000000000001,
+    "capacity": 107,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:10:59.498676",
+    "location": "Zone-12",
+    "risk_score": 31.262499999999996,
+    "nodes_used": [
+      "Node-4",
+      "Node-2"
+    ],
+    "demand": 86.32000000000001,
+    "capacity": 89,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:11:00.960057",
+    "location": "Zone-12",
+    "risk_score": 28.375,
+    "nodes_used": [
+      "Node-0",
+      "Node-4",
+      "Node-2"
+    ],
+    "demand": 87.10000000000001,
+    "capacity": 113,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 10.0,
+      "delay": 2.8,
+      "efficiency": 87.2
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:11:02.643560",
+    "location": "Zone-12",
+    "risk_score": 35.9875,
+    "nodes_used": [
+      "Node-3",
+      "Node-0"
+    ],
+    "demand": 91.85280000000002,
+    "capacity": 107,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:11:03.999079",
+    "location": "Zone-12",
+    "risk_score": 32.3125,
+    "nodes_used": [
+      "Node-3",
+      "Node-2"
+    ],
+    "demand": 75.92000000000002,
+    "capacity": 93,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:11:05.498582",
+    "location": "Zone-12",
+    "risk_score": 33.3625,
+    "nodes_used": [
+      "Node-0",
+      "Node-4"
+    ],
+    "demand": 79.04,
+    "capacity": 97,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:11:06.966375",
+    "location": "Zone-12",
+    "risk_score": 26.8,
+    "nodes_used": [
+      "Node-2",
+      "Node-4",
+      "Node-0"
+    ],
+    "demand": 97.5,
+    "capacity": 104,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 10.0,
+      "delay": 2.8,
+      "efficiency": 87.2
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:11:08.464596",
+    "location": "Zone-12",
+    "risk_score": 38.0875,
+    "nodes_used": [
+      "Node-1",
+      "Node-2"
+    ],
+    "demand": 89.7,
+    "capacity": 115,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:11:10.095087",
+    "location": "Zone-12",
+    "risk_score": 31.7875,
+    "nodes_used": [
+      "Node-1",
+      "Node-4"
+    ],
+    "demand": 89.19040000000001,
+    "capacity": 91,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:11:11.631184",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-0"
+    ],
+    "demand": 61.23520000000002,
+    "capacity": 72,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:11:12.963212",
+    "location": "Zone-12",
+    "risk_score": 28.375,
+    "nodes_used": [
+      "Node-4",
+      "Node-3",
+      "Node-0"
+    ],
+    "demand": 84.5,
+    "capacity": 113,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 10.0,
+      "delay": 2.8,
+      "efficiency": 87.2
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:11:14.700675",
+    "location": "Zone-12",
+    "risk_score": 34.4125,
+    "nodes_used": [
+      "Node-0",
+      "Node-4"
+    ],
+    "demand": 98.17600000000002,
+    "capacity": 101,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:11:16.692706",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-4"
+    ],
+    "demand": 76.54400000000001,
+    "capacity": 77,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:11:18.073046",
+    "location": "Zone-12",
+    "risk_score": 36.775,
+    "nodes_used": [
+      "Node-1",
+      "Node-2"
+    ],
+    "demand": 105.3,
+    "capacity": 110,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:11:19.760159",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-4"
+    ],
+    "demand": 68.55680000000001,
+    "capacity": 80,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:12:33.830515",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-3"
+    ],
+    "demand": 63.897600000000025,
+    "capacity": 72,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:17:51.033869",
+    "location": "Zone-12",
+    "risk_score": 27.15,
+    "nodes_used": [
+      "Node-4",
+      "Node-3",
+      "Node-0"
+    ],
+    "demand": 100.88000000000001,
+    "capacity": 106,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 10.0,
+      "delay": 2.8,
+      "efficiency": 87.2
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:17:56.460345",
+    "location": "Zone-12",
+    "risk_score": 31.262499999999996,
+    "nodes_used": [
+      "Node-1",
+      "Node-3"
+    ],
+    "demand": 74.88000000000001,
+    "capacity": 89,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:18:12.376552",
+    "location": "Zone-12",
+    "risk_score": 24.699999999999996,
+    "nodes_used": [
+      "Node-0",
+      "Node-3"
+    ],
+    "demand": 56.160000000000004,
+    "capacity": 64,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:18:20.862141",
+    "location": "Zone-12",
+    "risk_score": 27.675,
+    "nodes_used": [
+      "Node-4",
+      "Node-2",
+      "Node-0"
+    ],
+    "demand": 96.51200000000001,
+    "capacity": 109,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 10.0,
+      "delay": 2.8,
+      "efficiency": 87.2
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:18:47.173803",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-1"
+    ],
+    "demand": 72.8,
+    "capacity": 77,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:19:26.613362",
+    "location": "Zone-12",
+    "risk_score": 44.074999999999996,
+    "nodes_used": [
+      "Node-1"
+    ],
+    "demand": 62.83264000000002,
+    "capacity": 63,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:19:44.412908",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-3"
+    ],
+    "demand": 64.96256000000001,
+    "capacity": 74,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:20:22.542222",
+    "location": "Zone-12",
+    "risk_score": 25.575,
+    "nodes_used": [
+      "Node-3",
+      "Node-1",
+      "Node-0"
+    ],
+    "demand": 95.84640000000002,
+    "capacity": 97,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 10.0,
+      "delay": 2.8,
+      "efficiency": 87.2
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:20:31.244744",
+    "location": "Zone-12",
+    "risk_score": 24.525,
+    "nodes_used": [
+      "Node-0",
+      "Node-2",
+      "Node-1"
+    ],
+    "demand": 79.3,
+    "capacity": 91,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 10.0,
+      "delay": 2.8,
+      "efficiency": 87.2
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:21:17.918989",
+    "location": "Zone-12",
+    "risk_score": 31.525,
+    "nodes_used": [
+      "Node-3",
+      "Node-1"
+    ],
+    "demand": 74.01472000000001,
+    "capacity": 90,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:21:44.442158",
+    "location": "Zone-12",
+    "risk_score": 38.0875,
+    "nodes_used": [
+      "Node-0",
+      "Node-2"
+    ],
+    "demand": 104.83200000000002,
+    "capacity": 115,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:22:28.848280",
+    "location": "Zone-12",
+    "risk_score": 29.1625,
+    "nodes_used": [
+      "Node-1",
+      "Node-4"
+    ],
+    "demand": 66.02752000000002,
+    "capacity": 81,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:22:38.502276",
+    "location": "Zone-12",
+    "risk_score": 31.525,
+    "nodes_used": [
+      "Node-2",
+      "Node-3"
+    ],
+    "demand": 74.10000000000001,
+    "capacity": 90,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:23:14.081448",
+    "location": "Zone-12",
+    "risk_score": 26.799999999999997,
+    "nodes_used": [
+      "Node-0",
+      "Node-2"
+    ],
+    "demand": 61.90080000000002,
+    "capacity": 72,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:23:30.656147",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-4"
+    ],
+    "demand": 68.64000000000001,
+    "capacity": 72,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:23:38.563789",
+    "location": "Zone-12",
+    "risk_score": 32.574999999999996,
+    "nodes_used": [
+      "Node-2",
+      "Node-4"
+    ],
+    "demand": 91.0,
+    "capacity": 94,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:23:46.948817",
+    "location": "Zone-12",
+    "risk_score": 35.199999999999996,
+    "nodes_used": [
+      "Node-4",
+      "Node-1"
+    ],
+    "demand": 84.5,
+    "capacity": 104,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:24:14.512348",
+    "location": "Zone-12",
+    "risk_score": 36.512499999999996,
+    "nodes_used": [
+      "Node-4",
+      "Node-1"
+    ],
+    "demand": 95.68000000000002,
+    "capacity": 109,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:24:32.061332",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-0"
+    ],
+    "demand": 70.72000000000001,
+    "capacity": 71,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:24:41.064757",
+    "location": "Zone-12",
+    "risk_score": 34.675,
+    "nodes_used": [
+      "Node-2",
+      "Node-0"
+    ],
+    "demand": 68.9,
+    "capacity": 102,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:25:15.919209",
+    "location": "Zone-12",
+    "risk_score": 39.137499999999996,
+    "nodes_used": [
+      "Node-3",
+      "Node-2"
+    ],
+    "demand": 97.17760000000001,
+    "capacity": 119,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:25:33.033720",
+    "location": "Zone-12",
+    "risk_score": 46.0,
+    "nodes_used": [
+      "Node-0"
+    ],
+    "demand": 61.36000000000001,
+    "capacity": 70,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 5.0,
+      "delay": 1.4,
+      "efficiency": 93.6
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:25:43.017778",
+    "location": "Zone-12",
+    "risk_score": 37.0375,
+    "nodes_used": [
+      "Node-1",
+      "Node-2"
+    ],
+    "demand": 81.9,
+    "capacity": 111,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:26:29.510202",
+    "location": "Zone-12",
+    "risk_score": 27.324999999999996,
+    "nodes_used": [
+      "Node-1",
+      "Node-3"
+    ],
+    "demand": 68.15744000000002,
+    "capacity": 74,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
+  },
+  {
+    "timestamp": "2026-03-30 02:27:11.013455",
+    "location": "Zone-12",
+    "risk_score": 27.85,
+    "nodes_used": [
+      "Node-3",
+      "Node-1",
+      "Node-4"
+    ],
+    "demand": 101.50400000000002,
+    "capacity": 110,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 10.0,
+      "delay": 2.8,
+      "efficiency": 87.2
+    }
   }
 ]

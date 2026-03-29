@@ -6,9 +6,9 @@ from orchestrator.rag_engine.retriever import get_infra_context
 from groq import Groq
 import os
 
-api = os.getenv("GROQ_API_KEY")
+api_key= os.getenv("GROQ_API_KEY")
 
-client = Groq(api_key=api)
+client = Groq(api_key=api_key)
 
 # =========================================================
 # ⚙️ WEIGHT CONFIGURATION (TUNABLE SYSTEM BEHAVIOR)

@@ -44,4 +44,28 @@ def run_system():
 
     result = graph_app.invoke(state)
 
-    return result
+    nodes = [
+        {
+            "id": n["id"],
+            "pressure": n.get("pressure", 50)
+        }
+        for n in result.get("neighbor_states", [])
+    ]
+
+    edges = []
+    for i in range(len(nodes) - 1):
+        edges.append({
+            "source": nodes[i]["id"],
+            "target": nodes[i + 1]["id"]
+        })
+
+    return {
+        "risk_score": result.get("risk_score", 0),
+        "retries": result.get("retry_count", 0),
+        "leak_node": nodes[0]["id"] if nodes else "Node-0",
+
+        "nodes": nodes,
+        "edges": edges,
+
+        "reasoning": result.get("reasoning", "Fallback reasoning")
+    }
