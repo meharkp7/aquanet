@@ -1412,5 +1412,23 @@
       "delay": 2.8,
       "efficiency": 87.2
     }
+  },
+  {
+    "timestamp": "2026-03-30 02:27:25.382583",
+    "location": "Zone-12",
+    "risk_score": 38.0875,
+    "nodes_used": [
+      "Node-1",
+      "Node-4"
+    ],
+    "demand": 92.35200000000002,
+    "capacity": 115,
+    "success": true,
+    "retry_count": 0,
+    "simulation": {
+      "pressure_drop": 7.5,
+      "delay": 2.0999999999999996,
+      "efficiency": 90.4
+    }
   }
 ]
