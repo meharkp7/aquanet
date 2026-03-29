@@ -1,0 +1,59 @@
+# --- Environment & Secrets (CRITICAL) ---
+.env
+.env.*
+orchestrator/.env
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Unity Project: AquaNet_Simulator ---
+/[Uu]nity_app/AquaNet_Simulator/[Ll]ibrary/
+/[Uu]nity_app/AquaNet_Simulator/[Tt]emp/
+/[Uu]nity_app/AquaNet_Simulator/[Oo]bj/
+/[Uu]nity_app/AquaNet_Simulator/[Bb]uild/
+/[Uu]nity_app/AquaNet_Simulator/[Bb]uilds/
+/[Uu]nity_app/AquaNet_Simulator/[Ll]ogs/
+/[Uu]nity_app/AquaNet_Simulator/[Uu]serSettings/
+/[Uu]nity_app/AquaNet_Simulator/[Mm]emoryCaptures/
+
+# Unity generated metadata
+/[Uu]nity_app/AquaNet_Simulator/Assets/AssetStoreTools*
+/[Uu]nity_app/AquaNet_Simulator/ExportedObj/
+.collabignore
+
+# Unity IDE / Solutions
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# --- Python Virtual Environments ---
+venv/
+.venv/
+env/
+ENV/
+bin/
+lib/
+share/
+include/
+
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# --- IDEs (VS Code / Cursor / PyCharm) ---
+.vscode/
+.idea/
+*.swp
+*.bak
